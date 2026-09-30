@@ -49,7 +49,7 @@ export default function App() {
           onOpenGallery={() => setIsGalleryOpen(true)} 
         />
 
-        {/* Wedding Event Details Section (Ceremony & Reception at Baburaj Auditorium Chengaloor) */}
+        {/* Wedding Event Details Section (Ceremony & Reception at Rak Plaza Punnakuru) */}
         <DetailsSection 
           onOpenMap={handleOpenMap} 
         />

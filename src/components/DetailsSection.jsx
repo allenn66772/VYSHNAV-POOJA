@@ -95,10 +95,10 @@ export default function DetailsSection({ onOpenMap }) {
                 </div>
                 <div>
                   <h3 className="font-cormorant text-2xl sm:text-3xl text-[#2f382a] font-medium">
-                    Baburaj Auditorium
+                    Rak Plaza
                   </h3>
                   <p className="font-cormorant text-sm sm:text-base text-[#5d6b58] italic mt-0.5">
-                    Santhi Nagar, Chengaloor
+                    Punnakuru
                   </p>
                 </div>
               </div>
@@ -112,7 +112,7 @@ export default function DetailsSection({ onOpenMap }) {
                 <div className="flex items-center gap-2">
                   <span className="w-4 h-4 text-center font-bold text-[#56654f]">🥂</span>
                   <span className="font-semibold text-[#2f382a]">Timing:</span>
-                  <span>11:30 AM Onwards</span>
+                  <span>5:00 PM – 9:00 PM</span>
                 </div>
               </div>
             </div>
