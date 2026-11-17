@@ -112,7 +112,7 @@ export default function DetailsSection({ onOpenMap }) {
                 <div className="flex items-center gap-2">
                   <span className="w-4 h-4 text-center font-bold text-[#56654f]">🥂</span>
                   <span className="font-semibold text-[#2f382a]">Timing:</span>
-                  <span>5:00 PM – 9:00 PM</span>
+                  <span>6:00 PM – 9:00 PM</span>
                 </div>
               </div>
             </div>
